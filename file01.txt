@@ -1,3 +1,5 @@
 hello
 :inew line from dev
->>>>>>> dev
+dev
+
+from forked
